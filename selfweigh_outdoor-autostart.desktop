@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=SelfWeigh
+Comment=Weighbridge HMI kiosk with PlateRecognizer ANPR and GDrive integration
+Exec=sh /home/pi/SelfWeigh/launch.sh
