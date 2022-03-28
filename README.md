@@ -1,5 +1,5 @@
 # SelfWeigh
-Weighbridge HMI/kiosk with PlateRecognizer ANPR and GDrive integration
+Weighbridge HMI/kiosk with PlateRecognizer ANPR and Google Drive integration
 
 
 ## Requirements
