@@ -82,4 +82,6 @@ sudo cp ~/Projects/SelfWeigh/selfweigh_outdoor-autostart.desktop /etc/xdg/autost
 chmod +x /etc/xdg/autostart/selfweigh_outdoor-autostart.desktop
 ```
 
-## To Do: Usage
+## To Do
+Add usage documentation
+Add main.py for outdoor units or merge it into main_server.py as universal script
