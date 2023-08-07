@@ -11,7 +11,7 @@ def main():
     root = tk.Tk()
     root.geometry("800x100+0-400")
     root.wm_attributes('-type', 'splash')
-    bruto = tk.Label(root, text="Trenutna težina (bruto):", font="Ubuntu\ Condensed 41 bold")
+    bruto = tk.Label(root, text="Current weight (gross):", font="Ubuntu\ Condensed 41 bold")
     bruto.place(x=5, y=58, anchor="w")
     status = tk.Label(root, text="n", font="Ubuntu\ Condensed 41 bold")
     status.place(x=790, y=58, anchor="e")
