@@ -85,3 +85,11 @@ chmod +x /etc/xdg/autostart/selfweigh_outdoor-autostart.desktop
 ## To Do
 Add usage documentation
 Add main.py for outdoor units or merge it into main_server.py as universal script
+
+---
+
+## License
+
+This project is licensed under the GNU General Public License version 3 (GPLv3). You can find the full text of the license in the [LICENSE](LICENSE) file.
+
+[![License: GPL v3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0)
