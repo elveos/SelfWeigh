@@ -36,7 +36,7 @@ def main():
 	#prodavac = "otpadi otpadi"
 	#kupac = "YourCompany, Some  description"
 	#dt_string = "21.09.2020         19:20:25"
-	#link_img = "https://docs.google.com/uc?export=download&id=1n80LJzmWqBcIGoZervCB_SW-8xToOY5J"
+	#link_img = "https://docs.google.com/uc?export=download&id=..............."
 	
 	test_dt = 'dt_string' in globals()
 	if test_dt is False:
