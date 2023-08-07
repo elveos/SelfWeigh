@@ -28,8 +28,8 @@ Flash the downloaded image to SD card(s) with a flashing tool, such as [balenaEt
 ### Installation
 Once you've set up and booted up Pi, install the necessary packages and Python modules:
 ```
-sudo apt install git sshfs ser2net socat moreutils python3-{pip,tk,pandas,opencv}
-python3 -m pip install serial pydrive urllib3 requests expect
+sudo apt install git tee sshfs ser2net socat moreutils python3-{pip,tk,pandas,opencv}
+python3 -m pip install serial pydrive urllib3 requests expect ping3
 ```
 
 Clone this repo to ~/SelfWeigh dir and make the necessary files executable:
