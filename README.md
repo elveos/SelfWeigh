@@ -34,7 +34,7 @@ python3 -m pip install serial pydrive urllib3 requests expect ping3
 
 Clone this repo to ~/SelfWeigh dir and make the necessary files executable:
 ```
-mkdir ~/SelfWeigh; git clone https://github.com/LeoVae/SelfWeigh.git ~/SelfWeigh
+mkdir ~/SelfWeigh; git clone https://github.com/elveos/SelfWeigh.git ~/SelfWeigh
 cd ~/SelfWeigh/
 find ~/SelfWeigh/ -type f \(-name "*.sh" -o name "*.py \)" -exec chmod +x {} \;
 ```
