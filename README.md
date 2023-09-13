@@ -69,8 +69,8 @@ systemctl restart ser2net.service
 
 Make SelfWeigh start on boot:
 ```
-sudo cp ~/Projects/SelfWeigh/selfweigh-autostart.desktop /etc/xdg/autostart/
-chmod +x /etc/xdg/autostart/selfweigh-autostart.desktop
+cp ~/Projects/SelfWeigh/selfweigh-autostart.desktop ~/.config/autostart/selfweigh-autostart.desktop
+chmod +x ~/.config/autostart/selfweigh-autostart.desktop
 ```
 
 
