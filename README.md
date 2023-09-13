@@ -53,7 +53,8 @@ Change the screen resolution to 800x480:
 tee -a /boot/config.txt <<EOF
 hdmi_group=2
 hdmi_mode=87
-hdmi_cvt=800 480 60 6 0 0 0EOF
+hdmi_cvt=800 480 60 6 0 0 0
+EOF
 ```
 
 
